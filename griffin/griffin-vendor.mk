@@ -868,6 +868,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsensorhub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorhub.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libsensorhubservice_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorhubservice_jni.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libssd.so \
+    vendor/motorola/griffin/proprietary/vendor/lib64/libspl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspl.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/sensor_calibrate.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensor_calibrate.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/sensors.iio.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.iio.so \
     vendor/motorola/griffin/proprietary/vendor/lib64/sensors.msm8996.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.msm8996.so \
