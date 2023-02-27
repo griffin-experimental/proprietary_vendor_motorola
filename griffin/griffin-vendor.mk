@@ -744,6 +744,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_chromaflash_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_chromaflash_lib.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dbg.so \
+    vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_dcrf_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dcrf_lib.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_dummyalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_dummyalgo.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_eebinparse.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eebinparse.so \
     vendor/motorola/griffin/proprietary/vendor/lib/libmmcamera_eeprom_util.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_eeprom_util.so \
